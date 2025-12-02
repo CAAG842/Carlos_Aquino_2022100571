@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registro de subscripcion</title>
+    <link rel="stylesheet" href="../static/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Registro de subscripcion</h1>
+        <form action="/subscribirse" method="POST">
+            <input type="text" id="username" name="username" placeholder="Nombre" required>
+            <input type="text" id="lastname" name="lastname" placeholder="Apellido" required>
+            <input type="text" id="correo" name="correo" placeholder="Correo Electronico" required>
+             <input type="text" id="Telefono_Celular" name="cel" placeholder="Telefono Celular" required>
+            <input type="text" id="horario_llamada" name="horario_llamada" placeholder="horario de llamada" required>
+            <input type="submit" value="Subscribirse">
+        </form>
+        <a href="/">Volver a Pagina de Inicio</a>
+    </div>
+</body>
+</html>
