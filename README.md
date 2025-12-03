@@ -29,7 +29,7 @@ CREATE TABLE users (
 
 ## Pasos para ejecutar el proyecto
 ```git
-# git clone https://github.com/gusmanulop/repasoPPI.git EF_GUSTAVO_LOPEZ
+# git 
 # git remote remove origin (desvincular del repositorio GitHub)
 # git remote add origin https/TuPropioRepositorio.git
 # git add .
