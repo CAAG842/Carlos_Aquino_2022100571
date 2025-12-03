@@ -24,3 +24,14 @@ CREATE TABLE users (
     cel VARCHAR(10),
     horario_llamada VARCHAR(50)
 );
+```
+# PASOS PARA BAJAR UN REPOSITORIO
+
+## Pasos para ejecutar el proyecto
+```git
+# git clone https://github.com/gusmanulop/repasoPPI.git EF_GUSTAVO_LOPEZ
+# git remote remove origin (desvincular del repositorio GitHub)
+# git remote add origin https/TuPropioRepositorio.git
+# git add .
+# git commit -m "mensaje editable
+# git push -u origin master
