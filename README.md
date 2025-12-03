@@ -1,6 +1,6 @@
 # Pasos para crear la base de datos y ejecutar el proyecto
 
-## PASO 1 — Crear la base de datos MySQL en Docker
+## PASO 1 — Crear la base de datos MSQL en Docker
 
 ```bash
 # Crear contenedor MySQL con base 'subscripcion'
@@ -25,7 +25,7 @@ CREATE TABLE users (
     horario_llamada VARCHAR(50)
 );
 ```
-# PASOS PARA BAJAR UN REPOSITORIO
+# PASOS PARA BAJR UN REPOSITORIO
 
 ## Pasos para ejecutar el proyecto
 ```git
