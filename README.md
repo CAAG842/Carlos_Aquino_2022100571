@@ -25,9 +25,9 @@ CREATE TABLE users (
     horario_llamada VARCHAR(50)
 );
 ```
-# PASOS PARA BAJR UN REPOSITORIO
+### PASOS PARA BAJR UN REPOSITORIO
 
-## Pasos para ejecutar el proyecto
+#### Pasos para ejecutar el proyecto
 ```git
 # git https://github.com/CAAG842/Carlos_Aquino_2022100571 EF_CARLOS_AQUINO_2022100571
 # git remote remove origin (desvincular del repositorio GitHub)
