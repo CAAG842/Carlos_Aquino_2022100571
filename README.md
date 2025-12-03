@@ -29,9 +29,6 @@ CREATE TABLE users (
 
 ## Pasos para ejecutar el proyecto
 ```git
-# git 
+# git https://github.com/CAAG842/Carlos_Aquino_2022100571 EF_CARLOS_AQUINO_2022100571
 # git remote remove origin (desvincular del repositorio GitHub)
-# git remote add origin https/TuPropioRepositorio.git
-# git add .
-# git commit -m "mensaje editable
-# git push -u origin master
+# CORRER EL APP.PY EN VISUAL ESTUDIO CODE
